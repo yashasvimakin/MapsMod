@@ -1,0 +1,23 @@
+PODS:
+  - CSStickyHeaderFlowLayout (0.2.11)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+
+DEPENDENCIES:
+  - CSStickyHeaderFlowLayout
+  - GoogleMaps
+  - GooglePlaces
+
+SPEC CHECKSUMS:
+  CSStickyHeaderFlowLayout: e9bcb1762413f49d7d09e5bd0ae5efd1100116b7
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+
+PODFILE CHECKSUM: 1b243edebaddd9115281dc48809e5e3cee8ff654
+
+COCOAPODS: 1.1.1
